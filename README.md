@@ -1,5 +1,5 @@
 👋 Hi there, I’m @lucadd99, I'm a Front-End Engineer!
-I'm a passionate web developer who loves turning ideas into interactive, beautiful, and functional digital experiences. Creativity, logic, and imagination fuel my work — whether I'm building sleek user interfaces or diving into complex functionality.
+I'm a passionate web developer who loves turning ideas into interactive, beautiful, and functional digital experiences --- Creativity, logic, and imagination are my fuel for work.
 
 💻 What I Do:
 
@@ -13,7 +13,7 @@ Work with Node.js for backend/server-side features
 
 Develop Web3 apps, DApps, and explore blockchain, wallet integration, and decentralized technologies
 
-🔥 I'm always up for a challenge and love pushing myself to the limit. Creating cool projects and solving tough problems is my favorite kind of fun!
+🔥 I'm always up for a challenge and love pushing myself to the limit. Creating cool projects and solving tough problems is my favorite kind of art!
 
 
 <!---
